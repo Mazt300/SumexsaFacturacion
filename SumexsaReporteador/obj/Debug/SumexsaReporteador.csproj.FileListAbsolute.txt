@@ -1,0 +1,92 @@
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\rpt_Factura.rdlc
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\EnvDTE.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\EnvDTE80.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\stdole.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.frm_Reporte_Facturas.resources
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe.config
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe.manifest
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.application
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.pdb
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\SumexsaFacturacion.Properties.Resources.resources
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.exe.manifest
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.application
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.exe
+C:\Users\Marcos\Documents\Visual Studio 2022\Projects\SumexsaReporting\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.pdb
