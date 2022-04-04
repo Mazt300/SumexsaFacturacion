@@ -902,17 +902,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zpFsflM/R7Bns0fgbzDSHJIYK4alkXnL/hh+TJuLHic=</dsig:DigestValue>
+        <dsig:DigestValue>BotcZse7flxU0zO6Qh0HStCpqWS+jx35EGdQh7zE0Ds=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="rpt_Factura.rdlc" size="37905">
+  <file name="rpt_Factura.rdlc" size="37901">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Lq36M1kkBrO3t67YEtPUSmHdKG0jImCe6nl5/YWrMfY=</dsig:DigestValue>
+      <dsig:DigestValue>Wmv55B6LQtRlo62UNx2DsLG6i2+HS9sKnUOesEWkAPU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SqlServerTypes\readme.htm" size="2369">
