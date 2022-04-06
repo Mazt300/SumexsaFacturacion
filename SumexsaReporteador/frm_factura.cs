@@ -1,4 +1,5 @@
 ﻿using Microsoft.Reporting.WinForms;
+using SumexsaFacturacion;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -30,15 +31,21 @@ namespace SumexsaReporteador
         {
             if(Validaciones())
             {
-                Imprimir(false);
-                var resultado = MessageBox.Show("¿Desea imprimir copia?", "Facturación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if (resultado == DialogResult.Yes)
+                frm_seleccion_impresion seleccion_Impresion = new frm_seleccion_impresion();
+                seleccion_Impresion.ShowDialog();
+                if(seleccion_Impresion.seleccion > 0)
                 {
-                    Imprimir(true);
+                    Imprimir(seleccion_Impresion.seleccion);
                 }
+                //Imprimir(false);
+                //var resultado = MessageBox.Show("¿Desea imprimir copia?", "Facturación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                //if (resultado == DialogResult.Yes)
+                //{
+                //    Imprimir(true);
+                //}
             }
         }
-        private void Imprimir(bool copia)
+        public void Imprimir(int copia)
         {
             encabezado_list.Clear();
             data.Clear();
@@ -90,11 +97,11 @@ namespace SumexsaReporteador
             //parameters[13] = new ReportParameter("otros", txt_otros.Text);
             //
             LocalReport report = new LocalReport();
-            if(copia == false)
+            if(copia == 1)
             {
                 report.ReportPath = Application.StartupPath + "\\rpt_Factura.rdlc";
             }
-            else
+            if (copia == 2)
             {
                 report.ReportPath = Application.StartupPath + "\\rpt_Factura_copia.rdlc";
             }

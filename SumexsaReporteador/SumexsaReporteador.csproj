@@ -109,12 +109,21 @@
     <Compile Include="frm_factura.Designer.cs">
       <DependentUpon>frm_factura.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_seleccion_impresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_seleccion_impresion.Designer.cs">
+      <DependentUpon>frm_seleccion_impresion.cs</DependentUpon>
+    </Compile>
     <Compile Include="LocalReportExtensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="frm_factura.resx">
       <DependentUpon>frm_factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_seleccion_impresion.resx">
+      <DependentUpon>frm_seleccion_impresion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
