@@ -215,8 +215,8 @@ namespace SumexsaReporteador
             txt_telefono.Text = "";
             txt_atencion.Text = "";
             txt_subtotal.Text = "";
-            txt_iva.Text = "";
-            txt_otros.Text = "";
+            txt_iva.Text = "0";
+            txt_otros.Text = "0";
             txt_totalnetousd.Text = "";
             txt_tc.Text = "";
             txt_totalCS.Text = "";

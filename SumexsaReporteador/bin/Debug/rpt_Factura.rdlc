@@ -130,7 +130,7 @@
                   <TextRun>
                     <Value>=IIf(First(Fields!tipo_factura.Value, "Ds_encabezado_factura") = "Credito","X","")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -162,7 +162,7 @@
                   <TextRun>
                     <Value>=IIf(First(Fields!tipo_factura.Value, "Ds_encabezado_factura") = "Contado", "X", "")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -195,7 +195,7 @@
                   <TextRun>
                     <Value>=Day(First(Fields!fecha.Value, "Ds_encabezado_factura"))</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -228,20 +228,20 @@
                   <TextRun>
                     <Value>=Year(First(Fields!fecha.Value, "Ds_encabezado_factura"))</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Center</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox3</rd:DefaultName>
             <Top>3.5cm</Top>
-            <Left>12.63528cm</Left>
+            <Left>12.64111cm</Left>
             <Height>0.6cm</Height>
-            <Width>0.76472cm</Width>
+            <Width>0.94567cm</Width>
             <ZIndex>3</ZIndex>
             <Style>
               <Border>
@@ -261,7 +261,7 @@
                   <TextRun>
                     <Value>=Month(First(Fields!fecha.Value, "Ds_encabezado_factura"))</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -272,7 +272,7 @@
             </Paragraphs>
             <rd:DefaultName>Textbox3</rd:DefaultName>
             <Top>3.5cm</Top>
-            <Left>11.7cm</Left>
+            <Left>11.63528cm</Left>
             <Height>0.6cm</Height>
             <Width>0.9cm</Width>
             <ZIndex>4</ZIndex>
@@ -294,7 +294,7 @@
                   <TextRun>
                     <Value>=First(Fields!cliente.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -325,7 +325,7 @@
                   <TextRun>
                     <Value>=First(Fields!origen.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -338,7 +338,7 @@
             <Top>4.3cm</Top>
             <Left>11.2cm</Left>
             <Height>0.5cm</Height>
-            <Width>2.2cm</Width>
+            <Width>2.38678cm</Width>
             <ZIndex>6</ZIndex>
             <Style>
               <Border>
@@ -356,7 +356,7 @@
                   <TextRun>
                     <Value>=First(Fields!direccion.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -387,7 +387,7 @@
                   <TextRun>
                     <Value>=First(Fields!telefono.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -400,7 +400,7 @@
             <Top>4.8cm</Top>
             <Left>11.2cm</Left>
             <Height>0.5cm</Height>
-            <Width>2.2cm</Width>
+            <Width>2.38678cm</Width>
             <ZIndex>8</ZIndex>
             <Style>
               <Border>
@@ -418,7 +418,7 @@
                   <TextRun>
                     <Value>=First(Fields!email.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -449,7 +449,7 @@
                   <TextRun>
                     <Value>=First(Fields!atencion.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -462,7 +462,7 @@
             <Top>5.3cm</Top>
             <Left>11.2cm</Left>
             <Height>0.5cm</Height>
-            <Width>2.2cm</Width>
+            <Width>2.38678cm</Width>
             <ZIndex>10</ZIndex>
             <Style>
               <Border>
@@ -480,7 +480,7 @@
                   <TextRun>
                     <Value>=First(Fields!concepto.Value, "Ds_encabezado_factura")</Value>
                     <Style>
-                      <FontSize>6pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -493,7 +493,7 @@
             <Top>5.7cm</Top>
             <Left>3.1cm</Left>
             <Height>0.8cm</Height>
-            <Width>10.1cm</Width>
+            <Width>10.48678cm</Width>
             <ZIndex>11</ZIndex>
             <Style>
               <Border>
@@ -513,7 +513,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!sub_total.Value, "Ds_encabezado_factura"),2)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -523,8 +523,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>15.55cm</Top>
-            <Left>11.1cm</Left>
+            <Top>15.47056cm</Top>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>12</ZIndex>
@@ -544,7 +544,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!totalcs.Value, "Ds_encabezado_factura"),2)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -554,8 +554,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>17.63cm</Top>
-            <Left>11.1cm</Left>
+            <Top>17.6cm</Top>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>13</ZIndex>
@@ -575,7 +575,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!tc.Value, "Ds_encabezado_factura"),4)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -585,8 +585,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>17.2cm</Top>
-            <Left>11.1cm</Left>
+            <Top>17.16cm</Top>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>14</ZIndex>
@@ -606,7 +606,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!totalnetousd.Value, "Ds_encabezado_factura"),2)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -617,7 +617,7 @@
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>16.75cm</Top>
-            <Left>11.1cm</Left>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>15</ZIndex>
@@ -637,7 +637,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!otros.Value, "Ds_encabezado_factura"),2)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -648,7 +648,7 @@
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>16.35cm</Top>
-            <Left>11.1cm</Left>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>16</ZIndex>
@@ -668,7 +668,7 @@
                   <TextRun>
                     <Value>=FormatNumber(Sum(Fields!iva.Value, "Ds_encabezado_factura"),2)</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
+                      <FontSize>9pt</FontSize>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -678,8 +678,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>15.95cm</Top>
-            <Left>11.1cm</Left>
+            <Top>15.87056cm</Top>
+            <Left>11.30157cm</Left>
             <Height>0.4cm</Height>
             <Width>2.1cm</Width>
             <ZIndex>17</ZIndex>
@@ -753,7 +753,7 @@
                                     <TextRun>
                                       <Value>=Fields!item.Value</Value>
                                       <Style>
-                                        <FontSize>8pt</FontSize>
+                                        <FontSize>9pt</FontSize>
                                       </Style>
                                     </TextRun>
                                   </TextRuns>
@@ -787,7 +787,7 @@
                                     <TextRun>
                                       <Value>=Fields!cantidad.Value</Value>
                                       <Style>
-                                        <FontSize>8pt</FontSize>
+                                        <FontSize>9pt</FontSize>
                                       </Style>
                                     </TextRun>
                                   </TextRuns>
@@ -821,7 +821,7 @@
                                     <TextRun>
                                       <Value>=Fields!descripcion.Value</Value>
                                       <Style>
-                                        <FontSize>8pt</FontSize>
+                                        <FontSize>9pt</FontSize>
                                       </Style>
                                     </TextRun>
                                   </TextRuns>
@@ -855,7 +855,7 @@
                                     <TextRun>
                                       <Value>=FormatNumber(Fields!unitario.Value,2)</Value>
                                       <Style>
-                                        <FontSize>8pt</FontSize>
+                                        <FontSize>9pt</FontSize>
                                       </Style>
                                     </TextRun>
                                   </TextRuns>
@@ -889,7 +889,7 @@
                                     <TextRun>
                                       <Value>=FormatNumber(Fields!total.Value,2)</Value>
                                       <Style>
-                                        <FontSize>8pt</FontSize>
+                                        <FontSize>9pt</FontSize>
                                       </Style>
                                     </TextRun>
                                   </TextRuns>
@@ -934,7 +934,7 @@
                 </TablixRowHierarchy>
                 <KeepTogether>true</KeepTogether>
                 <DataSetName>Ds_detalle_factura</DataSetName>
-                <Top>0.2cm</Top>
+                <Top>0.5cm</Top>
                 <Left>0.39688cm</Left>
                 <Height>0.765cm</Height>
                 <Width>12.20312cm</Width>
@@ -961,16 +961,16 @@
             </Style>
           </Rectangle>
         </ReportItems>
-        <Height>7.09843in</Height>
+        <Height>7.2969in</Height>
         <Style />
       </Body>
-      <Width>5.27621in</Width>
+      <Width>5.34913in</Width>
       <Page>
         <PageHeight>21cm</PageHeight>
         <PageWidth>14.8cm</PageWidth>
         <LeftMargin>0cm</LeftMargin>
-        <RightMargin>0.2cm</RightMargin>
-        <TopMargin>0.1cm</TopMargin>
+        <RightMargin>0cm</RightMargin>
+        <TopMargin>0cm</TopMargin>
         <BottomMargin>0cm</BottomMargin>
         <ColumnSpacing>0.13cm</ColumnSpacing>
         <Style />

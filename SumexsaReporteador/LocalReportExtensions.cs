@@ -23,12 +23,12 @@ namespace Microsoft.Reporting.WinForms
             string deviceinfo =
                  $@"<DeviceInfo>
                 <OutputFormat>EMF</OutputFormat>
-                <PageWidth>{pageSettings.PaperSize.Width * 100}</PageWidth>
-                <PageHeight>{pageSettings.PaperSize.Height * 100}</PageHeight>
-                <MarginTop>{pageSettings.Margins.Top * 100}</MarginTop>
-                <MarginLeft>{pageSettings.Margins.Left * 100}</MarginLeft>
-                <MarginRight>{pageSettings.Margins.Right * 100}</MarginRight>
-                <MarginBottom>{pageSettings.Margins.Bottom * 100}</MarginBottom>
+                <PageWidth>{pageSettings.PaperSize.Width}</PageWidth>
+                <PageHeight>{pageSettings.PaperSize.Height}</PageHeight>
+                <MarginTop>{pageSettings.Margins.Top}</MarginTop>
+                <MarginLeft>{pageSettings.Margins.Left}</MarginLeft>
+                <MarginRight>{pageSettings.Margins.Right}</MarginRight>
+                <MarginBottom>{pageSettings.Margins.Bottom}</MarginBottom>
             </DeviceInfo>";
             ReportParameterInfoCollection reportParameter;
             reportParameter = report.GetParameters();
