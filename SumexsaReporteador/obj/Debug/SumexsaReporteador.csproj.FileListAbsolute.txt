@@ -182,3 +182,4 @@ C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.CopyComplete
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.exe
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.pdb
+C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\rpt_Factura_copia.rdlc

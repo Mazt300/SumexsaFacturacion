@@ -30,15 +30,15 @@ namespace SumexsaReporteador
         {
             if(Validaciones())
             {
-                Imprimir();
+                Imprimir(false);
                 var resultado = MessageBox.Show("¿Desea imprimir copia?", "Facturación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (resultado == DialogResult.Yes)
                 {
-                    Imprimir();
+                    Imprimir(true);
                 }
             }
         }
-        private void Imprimir()
+        private void Imprimir(bool copia)
         {
             encabezado_list.Clear();
             data.Clear();
@@ -90,7 +90,14 @@ namespace SumexsaReporteador
             //parameters[13] = new ReportParameter("otros", txt_otros.Text);
             //
             LocalReport report = new LocalReport();
-            report.ReportPath = Application.StartupPath + "\\rpt_Factura.rdlc";
+            if(copia == false)
+            {
+                report.ReportPath = Application.StartupPath + "\\rpt_Factura.rdlc";
+            }
+            else
+            {
+                report.ReportPath = Application.StartupPath + "\\rpt_Factura_copia.rdlc";
+            }
             report.DataSources.Clear();
             report.DataSources.Add(new ReportDataSource("Ds_encabezado_factura", encabezado_list));
             report.DataSources.Add(new ReportDataSource("Ds_detalle_factura", data));
