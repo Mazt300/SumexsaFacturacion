@@ -31,12 +31,21 @@ namespace SumexsaReporteador
         {
             if(Validaciones())
             {
-                frm_seleccion_impresion seleccion_Impresion = new frm_seleccion_impresion();
-                seleccion_Impresion.ShowDialog();
-                if(seleccion_Impresion.seleccion > 0)
+                var response = MessageBox.Show("¿Esta seguro de imprimir la factura?","Pregunta",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+
+                if (response == DialogResult.Yes)
                 {
-                    Imprimir(seleccion_Impresion.seleccion);
+                    Imprimir(2);
                 }
+
+                //Codigo utilizado para seleccion de impresion original o copia
+
+                //frm_seleccion_impresion seleccion_Impresion = new frm_seleccion_impresion();
+                //seleccion_Impresion.ShowDialog();
+                //if(seleccion_Impresion.seleccion > 0)
+                //{
+                //    Imprimir(seleccion_Impresion.seleccion);
+                //}
                 //Imprimir(false);
                 //var resultado = MessageBox.Show("¿Desea imprimir copia?", "Facturación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 //if (resultado == DialogResult.Yes)
@@ -116,8 +125,36 @@ namespace SumexsaReporteador
         private void frm_Reporte_Facturas_Load(object sender, EventArgs e)
         {
             Agregar_fila();
-            mtxt_fecha.Text = DateTime.Now.ToShortDateString().ToString();
+            mtxt_fecha.Text = ValidateDate(); 
         }
+
+        private String ValidateDate()
+        {
+            DateTime currentDate = DateTime.Now;
+            String currentDay = "";
+            String currentMonth = "";
+
+            if (currentDate.Day < 10) {
+                currentDay = "0" + currentDate.Day;
+            }
+            else
+            {
+                currentDay = currentDate.Day.ToString();
+            }
+            if (currentDate.Month < 10)
+            {
+                currentMonth = "0" + currentDate.Month;
+            }
+            else
+            {
+                currentMonth = currentDate.Month.ToString();
+            }
+
+            String currentDateString = currentDay+ "/" + currentMonth + "/" + currentDate.Year;
+            
+            return currentDateString;
+        }
+
         private void Agregar_fila()
         {
             grd_contenidos.Rows.Clear();

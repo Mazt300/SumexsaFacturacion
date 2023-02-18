@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Sumexsa Facturacion.exe" version="1.0.0.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Sumexsa Facturacion.exe" version="1.0.0.16" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Sumexsa Logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnvDTE.dll" size="254840">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnvDTE.dll" size="255888">
       <assemblyIdentity name="EnvDTE" version="8.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wrFPT7w305nC3V+fXDnn7Woby08JsCkF2xNchRugo58=</dsig:DigestValue>
+        <dsig:DigestValue>KzkictevMW2f3nPh7x4zucJbG44tusMtmKvMnh1fmYo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnvDTE80.dll" size="144248">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnvDTE80.dll" size="145296">
       <assemblyIdentity name="EnvDTE80" version="8.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LEj8Zg0NvQvtlmlEYggHWh8/fHzPaSp+fU7TM7y0uv4=</dsig:DigestValue>
+        <dsig:DigestValue>5VAkXZG8j8IBcQ5pS/R6IC+mSLAFq3pmTL4bQ5BblG4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -883,14 +883,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="24640">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="25464">
       <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ybTiEnaqEal95PVn4sR+3HVuBHyBw9ooE9ClWKZPSM4=</dsig:DigestValue>
+        <dsig:DigestValue>2nbLf/RLhWBUej5XjBjxWPu6uxm4KuQbKC9HgBJ370k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -902,26 +902,26 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lPyvDkzVbLZM9n/QbMztXqC9V0/XkV5/+CzDkkIh+5w=</dsig:DigestValue>
+        <dsig:DigestValue>hljMKd86TQDgpnWlSK2D34R55Jd+qNE1dJ1hVfAR+vk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="rpt_Factura.rdlc" size="37944">
+  <file name="rpt_Factura.rdlc" size="37976">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yAL6wXyHfPcK42/yxOwVw8596fLIvRKPHBc475Hf43I=</dsig:DigestValue>
+      <dsig:DigestValue>KAL5yKnm/MFsE88/Iz+cWRQjiWYIj7CkPqw6wR8i9a8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="rpt_Factura_copia.rdlc" size="37938">
+  <file name="rpt_Factura_copia.rdlc" size="38310">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eacATZfI/VWCv92A3WjrOS+xszVcsR2XX7rJBRDpvHw=</dsig:DigestValue>
+      <dsig:DigestValue>OQ8iQBXzhFZ/p1Ai8DVEQb3yamtA+03gLY6hezHsR5c=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SqlServerTypes\readme.htm" size="2369">

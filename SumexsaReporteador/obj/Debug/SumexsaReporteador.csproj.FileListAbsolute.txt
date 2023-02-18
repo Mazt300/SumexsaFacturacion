@@ -184,3 +184,99 @@ C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.pdb
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\rpt_Factura_copia.rdlc
 C:\Users\Marcos\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaFacturacion.frm_seleccion_impresion.resources
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\rpt_Factura.rdlc
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\rpt_Factura_copia.rdlc
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe.config
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe.manifest
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.application
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.exe
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Sumexsa Facturacion.pdb
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\EnvDTE.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\EnvDTE80.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\stdole.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\EnvDTE.xml
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\EnvDTE80.xml
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.AssemblyReference.cache
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.SuggestedBindingRedirects.cache
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.frm_Reporte_Facturas.resources
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaFacturacion.frm_seleccion_impresion.resources
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaFacturacion.Properties.Resources.resources
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.GenerateResource.cache
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.CoreCompileInputs.cache
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.exe.manifest
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.application
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\SumexsaReporteador.csproj.CopyComplete
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.exe
+C:\Users\marzu\Documents\GitHub\SumexsaFacturacion\SumexsaReporteador\obj\Debug\Sumexsa Facturacion.pdb
